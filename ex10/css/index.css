@@ -1,0 +1,125 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: white;
+    margin: 0px;
+}
+
+a {
+    color: #1d92ff;
+    text-decoration: none;
+}
+
+label {
+    padding-top: 20px;
+    padding-bottom: 4px;
+    float: left;
+}
+
+input {
+    color: white;
+    background-color: transparent;
+    border: #2e2e2e solid 1px;
+    height: 30px;
+    width: 100%;
+}
+
+button {
+    color: white;
+    font-weight: bold;
+    background-color: #1d92ff;
+    border: 0px;
+    margin-top: 12px;
+    width: 100%;
+    height: 30px;
+}
+
+.secondary-btn {
+    display: inline-block;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    background-color: #4d4d4d;
+    text-align: center;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 35px;
+    height: 35px;
+}
+
+.logo img {
+    padding-top: 15px;
+    padding-bottom: 50px;
+    width: 65%;
+    height: 8%;
+}
+
+.logo {
+    padding: 10px;
+    text-align: center;
+}
+
+
+#left {
+    background-color: #161515;
+    float: left;
+    max-width: 35%;
+    width: 40%;
+    height: 100%;
+}
+
+#signin {
+    text-align: center;
+    padding: 40px 15%;
+}
+
+#links {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#links a {
+    display: block;
+    padding: 6px;
+}
+
+.bar {
+    border-color: #4d4d4d;
+    margin: 10px 0;
+}
+
+#main-footer {
+    padding: 20% 0;
+    text-align: center;
+}
+
+#main-footer a {
+    color: #e9e9e9;
+    text-decoration: underline;
+}
+
+#right {
+    background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg");
+    background-size: contain;
+    background-position: center;
+    float: right;
+    width: 65%;
+    height: 100%;
+}
+
+#showcase {
+    margin: auto;
+    margin-top: 30%;
+    text-align: center;
+}
+
+#showcase-content h1 {
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+#showcase-content a {
+    margin: 0;
+    width: 35%;
+}
